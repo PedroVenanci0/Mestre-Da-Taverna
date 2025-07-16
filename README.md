@@ -1,6 +1,6 @@
 # 🧙‍♂️ O Mestre da Taverna (Chat com IA para RPG)
 
-> **Sugestão:** Tire um print da sua aplicação em funcionamento e substitua o placeholder acima.
+![O Mestre da Taverna em Ação](https://imgur.com/a/WaJ48mM)
 
 ---
 
