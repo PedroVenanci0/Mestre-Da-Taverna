@@ -66,9 +66,11 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Substitua seu-usuario/nome-do-repositorio pelo URL do seu projeto.
 
 ## 2. Abra o script.js
+
 Localize o arquivo script.js na pasta do projeto.
 
 ## 3. Insira sua Chave da API
+
 Dentro do script.js, encontre a seguinte constante e substitua o valor existente pela sua própria chave de API do Google Gemini:
 ```
 const API_KEY = "SUA_CHAVE_DA_API_VEM_AQUI"; // COLOQUE AQUI SUA CHAVE DE API
@@ -77,8 +79,11 @@ const API_KEY = "SUA_CHAVE_DA_API_VEM_AQUI"; // COLOQUE AQUI SUA CHAVE DE API
 ⚠️ Atenção: É crucial obter sua própria chave na plataforma do Google AI Studio para que a aplicação funcione corretamente.
 
 ## 4. Abra o index.html
+
 Abra o arquivo index.html em seu navegador de preferência.
 A maneira mais fácil é usar uma extensão como o Live Server no Visual Studio Code, para evitar problemas com CORS ao fazer requisições para a API.
+
+---
 
 ### ✒️ Autor
 Criado por Pedro.
