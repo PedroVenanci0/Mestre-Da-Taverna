@@ -1,6 +1,6 @@
 # 🧙‍♂️ O Mestre da Taverna (Chat com IA para RPG)
 
-![O Mestre da Taverna em Ação](https://imgur.com/a/WaJ48mM)
+![O Mestre da Taverna em Ação](https://i.imgur.com/tE2F8qf.png)
 
 ---
 
